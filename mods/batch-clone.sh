@@ -122,9 +122,6 @@ git clone https://github.com/qyl27/Inkraft.git inkraft
 # Clone 草工艺 (modid = grass_craft) 
 git clone https://github.com/ALittleBot/GrassCraft grass_craft
 
-# Clone 我的回合！ (modid = cardduel) 
-git clone https://github.com/mcczai/neoforge-1.21-board_games cardduel
-
 # Clone 傀儡装配(Modular Golems) (modid = modulargolems) 
 git clone https://github.com/Minecraft-LightLand/ModularGolems modulargolems
 
