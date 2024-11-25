@@ -29,9 +29,6 @@ git clone https://github.com/SihenZhang/CrockPot crockpot
 # Clone 真正的和平模式 (modid = real_peaceful_mode) 
 git clone https://github.com/Viola-Siemens/Real-Peaceful-Mode real_peaceful_mode
 
-# Clone 地火 (modid = undergroundfire) 
-git clone https://github.com/PositiveEStudio/NeoUGF undergroundfire
-
 # Clone 打铁匠人(Ding Mod) (modid = ding) 
 git clone https://github.com/NitianStudio/DingMod ding
 
@@ -226,7 +223,4 @@ git clone https://github.com/Anvil-Dev/AnvilCraft anvilcraft
 
 # Clone 吾有一术 (modid = wenyan_nature) 
 git clone https://github.com/gyxx-xc/WenyanNature wenyan_nature
-
-# Clone 锡茶科技 Tin Tea Tech (modid = tin_tea_tech) 
-git clone https://github.com/xkball/TinTeaTech tin_tea_tech
 
