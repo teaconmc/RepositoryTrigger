@@ -188,9 +188,6 @@ git clone https://github.com/Bread-NiceCat/LoveModFurina lovemod
 # Clone 方块小镇 (modid = yuushya) 
 git clone https://gitee.com/yuushyatownscape/yuushya-townscape yuushya
 
-# Clone 大宝刀 (modid = dabaosword) 
-git clone https://github.com/Amotassic/DabaoSword-NeoForge dabaosword
-
 # Clone Mino++ (modid = minopp) 
 git clone https://github.com/zbx1425/Minopp minopp
 
