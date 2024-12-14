@@ -68,9 +68,6 @@ git clone https://github.com/Chlamydomonos/HyphaCraft hyphacraft
 # Clone NeoMTR 纸板箱特色我的世界铁路 (modid = mtr) 
 git clone https://github.com/zbx1425/Minecraft-Transit-Railway mtr
 
-# Clone 欢庆 (modid = celebrations) 
-git clone https://github.com/LeoMinecraftModding/Celebrations-Mod celebrations
-
 # Clone 更好的打雪仗3 (modid = bsf) 
 git clone https://github.com/linngdu664/Better-Snowball-Fight3-NeoForge bsf
 
@@ -145,9 +142,6 @@ git clone https://github.com/joe-vettek/One-Block oneblock
 
 # Clone 清洁能源 (modid = cleanenergy) 
 git clone https://github.com/FengMingMC/CleanEnergy.git cleanenergy
-
-# Clone 更好的派对 (modid = betterparty) 
-git clone https://gitee.com/WangLa0Sh1/BetterParty betterparty
 
 # Clone ThatSkyInteractions (modid = thatskyinteractions) 
 git clone https://github.com/LouisQuepierts/ThatSkyInteractions thatskyinteractions
