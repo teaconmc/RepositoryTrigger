@@ -92,9 +92,6 @@ git clone https://github.com/LeoLezury/bcs-expedition-world bcs_expedition_world
 # Clone 一起跳舞！ (modid = everyxdance) 
 git clone https://github.com/Viola-Siemens/EveryXDance everyxdance
 
-# Clone 橙王的权杖 (modid = staff_of_the_king_orange) 
-git clone https://github.com/Glyceryl6/StaffOfTheKingOrange staff_of_the_king_orange
-
 # Clone 浅草轻语 WhisperGrove (modid = whispergrove) 
 git clone https://github.com/HiedaCamellia/WhisperGrove whispergrove
 
@@ -172,9 +169,6 @@ git clone https://github.com/TartaricAcid/NetMusic netmusic
 
 # Clone 双倍快乐！ (modid = double_the_happiness) 
 git clone https://github.com/haohao-0407/double_the_happiness.git double_the_happiness
-
-# Clone LoveMod:Furina (modid = lovemod) 
-git clone https://github.com/Bread-NiceCat/LoveModFurina lovemod
 
 # Clone 方块小镇 (modid = yuushya) 
 git clone https://gitee.com/yuushyatownscape/yuushya-townscape yuushya
