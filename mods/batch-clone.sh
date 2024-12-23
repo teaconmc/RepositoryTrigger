@@ -83,9 +83,6 @@ git clone https://github.com/LNatit/BulletChat bchat
 # Clone 不死灵药 (modid = the_elixir) 
 git clone https://github.com/TT432/TheElixir the_elixir
 
-# Clone Mine Team (modid = mine_team) 
-git clone https://github.com/XiaoHuNao/MineTeam mine_team
-
 # Clone 百般武艺 (modid = assorted_armaments) 
 git clone https://github.com/LeoMinecraftModding/assorted-armaments assorted_armaments
 
