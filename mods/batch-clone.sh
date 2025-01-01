@@ -62,9 +62,6 @@ git clone https://github.com/BinZhengStudio/IndustryBase industrybase
 # Clone 旋律魔法 (modid = melodymagic) 
 git clone https://github.com/StrangeSmell/MelodyMagic melodymagic
 
-# Clone 菌丝工艺(HyphaCraft) (modid = hyphacraft) 
-git clone https://github.com/Chlamydomonos/HyphaCraft hyphacraft
-
 # Clone NeoMTR 纸板箱特色我的世界铁路 (modid = mtr) 
 git clone https://github.com/zbx1425/Minecraft-Transit-Railway mtr
 
@@ -86,9 +83,6 @@ git clone https://github.com/TT432/TheElixir the_elixir
 # Clone 百般武艺 (modid = assorted_armaments) 
 git clone https://github.com/LeoMinecraftModding/assorted-armaments assorted_armaments
 
-# Clone BC的远征物语 (modid = bcs_expedition_world) 
-git clone https://github.com/LeoLezury/bcs-expedition-world bcs_expedition_world
-
 # Clone 一起跳舞！ (modid = everyxdance) 
 git clone https://github.com/Viola-Siemens/EveryXDance everyxdance
 
@@ -97,9 +91,6 @@ git clone https://github.com/HiedaCamellia/WhisperGrove whispergrove
 
 # Clone 自然通路 (modid = natural_transmute) 
 git clone https://github.com/Glyceryl6/NaturalTransmute natural_transmute
-
-# Clone 糖果世界社区版 (modid = candycraftce) 
-git clone https://github.com/Bread-NiceCat/CandyCraftCE candycraftce
 
 # Clone 节气 (modid = eclipticseasons) 
 git clone https://github.com/joe-vettek/Ecliptic eclipticseasons
