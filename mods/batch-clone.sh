@@ -149,6 +149,9 @@ git clone https://gitee.com/anecansaitin/FreeCameraAPI.git freecameraapi
 # Clone 车万女仆 (modid = touhou_little_maid) 
 git clone https://github.com/TartaricAcid/TouhouLittleMaid touhou_little_maid
 
+# Clone 极光幽境2 (modid = theaurorian) 
+git clone https://github.com/TeamPancakeMC/TheAurorian theaurorian
+
 # Clone 岩浆钓鱼 (modid = lavafishing) 
 git clone https://github.com/TeamSunset/LavaFishing lavafishing
 
