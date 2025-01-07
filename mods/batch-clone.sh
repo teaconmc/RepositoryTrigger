@@ -164,6 +164,9 @@ git clone https://github.com/haohao-0407/double_the_happiness.git double_the_hap
 # Clone 方块小镇 (modid = yuushya) 
 git clone https://gitee.com/yuushyatownscape/yuushya-townscape yuushya
 
+# Clone Mino++ (modid = minopp) 
+git clone https://github.com/zbx1425/Minopp minopp
+
 # Clone 料理工艺：传承 (modid = cuisine) 
 git clone https://github.com/joe-vettek/Cuisine cuisine
 
